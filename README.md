@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cleversos
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning rust for blockchain smart contract
-- 💞️ I’m looking to collaborate on building new crypto services
+- 👀 I’m a experienced in blockchain development.
+- 🌱 I have good work history on Ethereum/Solana/Near/Flow.
+- 💞️ I mainly concentrating on Near Protocol and I built serveral projects on Near for Fullstack.
 Have extensive C++/Phaser/Unity/GoogleAPI/Cordova/Web/Blockchain Experience.
